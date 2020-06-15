@@ -23,4 +23,4 @@ This code will generate a text file “output_list”, it includes four kinds of
 - The file multiple_time_location.py can be used to detect the cases when different clauses in a sentence envoke multiple location frames, or multiple time frames, as potential frame blends candidates; and also add the annotation tag like "<FBL><Source>Multiple_locations</Source></FBL>" to the original data file 
 - Both detect_metaphor.py and multiple_time_location.py work fine after testing, and have successfully added the FBL tags to all full-text annotation data based on the two methods above 
 
-- metap_sentence_list is a text file that include all the sentences that are tagged with "metaphor label" by FrameNet 
+- metap_sentence_list is an output file that include all the sentences that are tagged with "metaphor label" by FrameNet 
