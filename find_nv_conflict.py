@@ -48,7 +48,7 @@ def nvConflict(path):
                         end = end + 1
                         clause_1 = sentence[0].text[start:end]
                         print(clause_1)
-                        slice_list.append(clause_1)
+                        # slice_list.append(clause_1)
                         each_sentence.append(clause_1)
                         each_sentence.append('This is the type of noun:')
                         each_sentence.append(y)
