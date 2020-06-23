@@ -34,3 +34,4 @@ This code will generate a text file “output_list”, it includes four kinds of
 3. For all the verbs and nouns in each sentence, computer similarity between each pair of extracted words in the sentence 
 4. Compute the average similarity 
 5. Theoretically, when the average similarity is smaller, there will be more likely to include semantic conflict inside this sentence, and have a larger possibility of frame blends 
+- Uploaded [word2vec_similarity](word2vec_similarity). This text file is the output of [word2vector_test.py](word2vector_test.py). 
