@@ -33,5 +33,4 @@ This code will generate a text file “output_list”, it includes four kinds of
 2. Train the model with those input words 
 3. For all the verbs and nouns in each sentence, computer similarity between each pair of extracted words in the sentence 
 4. Compute the average similarity 
-5. Theoretically, when the average similarity is smaller, there will be more likely to have semantic conflict inside this sentence, and more possible to include frame blends  
-
+5. Theoretically, when the average similarity is smaller, there will be more likely to include semantic conflict inside this sentence, and have a larger possibility of frame blends 
