@@ -28,7 +28,7 @@ This code will generate a text file “output_list”, it includes four kinds of
 
 
 ## Third Code Uploading: 
-- Upload [word2vector_test.py](word2vector_test.py)
+- Uploaded [word2vector_test.py](word2vector_test.py). This code has also been uploded to Gallina, and the verb-noun list will be extracted from tv tree data in the further step. 
 1. This algorithm use Gensim python package to generates semantic vectors of each element in the verb-noun list
 2. Train the model with those input words 
 3. For all the verbs and nouns in each sentence, computer similarity between each pair of extracted words in the sentence 
