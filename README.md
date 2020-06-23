@@ -1,7 +1,7 @@
 # 2020GSoC_FrameBlends
 This GSoC project "AI Recognizers of Frame Blends, Especially in Conversations About the Future" is contributed by Wenyue Xi (Suzie) with Red Hen Lab. 
 
-## First Code uploading: 
+## First Code Uploading: 
 A brief instruction:
 
 - Step 1:
@@ -19,7 +19,7 @@ This code will detect the cases when the evoked frame names match with the frame
 This code will generate a text file “output_list”, it includes four kinds of information:
 
 
-## Second Code uploading: 
+## Second Code Uploading: 
 - The file [detect_metaphor.py](detect_metaphor.py) can be used to detect metaphor labels from full text annotation data; and also add the following annotation tag "<FBL><Source>Metaphor_label</Source></FBL>" to the original data file 
 - The file [metap_sentence_list](metap_sentence_list) is an output file that include all the sentences that are tagged with "metaphor label" by FrameNet 
 - The file [multiple_time_location.py](multiple_time_location.py) can be used to detect the cases when different clauses in a sentence envoke multiple location frames, or multiple time frames, as potential frame blends candidates; and also add the annotation tag like "<FBL><Source>Multiple_locations</Source></FBL>" to the original data file 
@@ -27,5 +27,5 @@ This code will generate a text file “output_list”, it includes four kinds of
 - The file [find_nv_conflict.py](find_nv_conflict.py) is used to generate verb and noun phrase type and evoked frames in each sentence; please see [nv_ANC__chapter1_911report.xml](nv_ANC__chapter1_911report.xml) for sample output 
 
 
-## Third Code uploading: 
+## Third Code Uploading: 
 - Upload [word2vector_test.py](word2vector_test.py)
