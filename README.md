@@ -25,3 +25,7 @@ This code will generate a text file “output_list”, it includes four kinds of
 - The file [multiple_time_location.py](multiple_time_location.py) can be used to detect the cases when different clauses in a sentence envoke multiple location frames, or multiple time frames, as potential frame blends candidates; and also add the annotation tag like "<FBL><Source>Multiple_locations</Source></FBL>" to the original data file 
 - Both [detect_metaphor.py](detect_metaphor.py and [multiple_time_location.py](metap_sentence_list) work fine after testing, and have successfully added the FBL tags to all full-text annotation data based on the two methods above 
 - The file [find_nv_conflict.py](find_nv_conflict.py) is used to generate verb and noun phrase type and evoked frames in each sentence; please see [nv_ANC__chapter1_911report.xml](nv_ANC__chapter1_911report.xml) for sample output 
+
+
+## Third Code uploading: 
+- Upload [word2vector_test.py](word2vector_test.p)
