@@ -28,4 +28,4 @@ This code will generate a text file “output_list”, it includes four kinds of
 
 
 ## Third Code uploading: 
-- Upload [word2vector_test.py](word2vector_test.p)
+- Upload [word2vector_test.py](word2vector_test.py)
