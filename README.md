@@ -38,5 +38,5 @@ This code will generate a text file “output_list”, it includes four kinds of
 
 
 ## Final Code Uploading 
-This submission is a backup version of FrameBlends Pipeline on HPC. 
+This submission is a simple backup of FrameBlends Pipeline code on HPC. The full structure and experiment data are stored in the HPC pipeline. 
 
